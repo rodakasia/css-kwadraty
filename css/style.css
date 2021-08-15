@@ -1,0 +1,46 @@
+h1{
+  background-color: grey;  
+}
+body{
+    background-color: grey;
+}
+h1{
+    font-size: x-large;color: white;
+}
+label{
+    color: orange;
+}
+div{
+    background-color: orange;
+    width: 4cm;height: 4cm;
+}
+div*4 {
+    background-color: orange;
+    width
+}
+div{
+    background-color: orange;width: auto;
+}
+div{
+    background-color: orange;
+    width: 4cm;
+
+}
+h1 div{
+    line-height: 1;
+}
+h1~div{
+    line-height: 1;
+}
+div{
+    max-height: 4cm;
+}
+h1+div{
+    height: 4cm;
+}
+div{
+    width: 3,5cm;
+}
+div{
+    width: 3cm;
+}
