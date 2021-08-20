@@ -1,16 +1,21 @@
-h1{
-  background-color: grey;  
-}
-body{
+body {
     background-color: grey;
 }
-h1{
-    font-size: x-large;color: white;
+
+h1 {
+    background-color: grey; 
+    font-size: 30px;
+    color: white;
+    margin: auto 10px;
 }
-label{
+
+label {
     color: orange;
 }
-div{
+
+div {
     background-color: orange;
-    width: 150px;height: 150px;
+    width: 140px;
+    height: 140px;
+    margin: 10px 20px;
 }
